@@ -11,7 +11,6 @@ import {
 	FormFeedback
 } from "reactstrap";
 import { Link } from "react-router-dom";
-import { JSONLindo } from './JSONLindo';
 
 class Contact extends Component {
     constructor(props) {
