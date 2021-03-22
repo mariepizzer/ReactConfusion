@@ -37,7 +37,6 @@ const Header = (props) => {
 	
 	const handleLogin = (event) => {
 		toggleModal();
-		console.log(inputRefUsername);
 		alert(
             "Username:" +
                 inputRefUsername.current.value +
